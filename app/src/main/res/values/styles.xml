@@ -1,0 +1,63 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme"
+           parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="CustomThemeOne"
+        parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/bluePrimary</item>
+        <item name="colorPrimaryDark">@color/blueDark</item>
+        <item name="colorAccent">@color/blueAccent</item>
+        <item name="android:windowBackground">@color/blueBackground</item>
+
+    </style>
+    <style name="SplashScreenTheme"
+           parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="font_style">
+        <item name="android:textSize">@dimen/fontSize</item>
+        <item name="android:fontFamily">@font/amiri</item>
+    </style>
+
+    <style name="OverlayThemeLime" parent="AppTheme">
+        <item name="colorPrimary">@color/md_lime_500</item>
+        <item name="colorPrimaryDark">@color/md_lime_700</item>
+        <item name="colorAccent">@color/limeAccent</item>
+        <item name="colorButtonNormal">@color/limeAccent</item>
+        <item name="android:windowBackground">@color/limeBg</item>
+    </style>
+
+    <style name="OverlayThemeRed" parent="AppTheme">
+        <item name="colorPrimary">@color/md_red_500</item>
+        <item name="colorPrimaryDark">@color/md_red_700</item>
+        <item name="colorAccent">@color/redAccent</item>
+        <item name="colorButtonNormal">@color/redAccent</item>
+        <item name="android:windowBackground">@color/redBg</item>
+    </style>
+
+    <style name="OverlayThemeGreen" parent="AppTheme">
+        <item name="colorPrimary">@color/md_green_500</item>
+        <item name="colorPrimaryDark">@color/md_green_700</item>
+        <item name="colorAccent">@color/greenAccent</item>
+        <item name="colorButtonNormal">@color/greenAccent</item>
+        <item name="android:windowBackground">@color/greenBg</item>
+    </style>
+
+    <style name="OverlayThemeBlue" parent="AppTheme">
+        <item name="colorPrimary">@color/md_blue_500</item>
+        <item name="colorPrimaryDark">@color/md_blue_700</item>
+        <item name="colorAccent">@color/blueAccent</item>
+        <item name="colorButtonNormal">@color/blueAccent</item>
+        <item name="android:windowBackground">@color/blueBg</item>
+    </style>
+
+</resources>

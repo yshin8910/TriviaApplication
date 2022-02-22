@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvQuestion"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:text="Insert question here"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/btnOptionOne"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_margin = '10dp'
+        android:text="option 1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvQuestion" />
+
+    <Button
+        android:id="@+id/btnOptionTwo"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_margin = '10dp'
+        android:text="option 2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnOptionOne" />
+
+
+    <Button
+        android:id="@+id/btnOptionThree"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_margin = '10dp'
+        android:text="opt3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnOptionTwo" />
+
+    <Button
+        android:id="@+id/btnOptionFour"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_margin = '10dp'
+        android:text="opt3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnOptionThree" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

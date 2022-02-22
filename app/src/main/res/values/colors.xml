@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#89CFF0</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#89CFF0</color>
+
+    <color name="bluePrimary">#3d84b8</color>
+    <color name="blueDark">#344fa1</color>
+    <color name="blueBackground">#555555</color>
+
+    <color name="md_red_500">#970606</color>
+    <color name="md_red_700">#770404</color>
+    <color name="md_yellow_A400">#FBC02D</color>
+
+    <color name="md_lime_500">#6D9904</color>
+    <color name="md_lime_700">#587C02</color>
+    <color name="md_amber_A400">#F55E0C</color>
+
+    <color name="md_green_500">#047204</color>
+    <color name="md_green_700">#035203</color>
+    <color name="md_pink_A400">#D32F2F</color>
+
+    <color name="md_blue_500">#070786</color>
+    <color name="md_blue_700">#04045E</color>
+    <color name="md_turquoise_A400">#00796B</color>
+
+
+    <color name="limeAccent">#8f00ff</color>
+    <color name="blueAccent">#00796B</color>
+    <color name="redAccent">#A89C9C</color>
+    <color name="greenAccent">#43de81</color>
+
+    <color name="limeBg">#baf5cc</color>
+    <color name="blueBg">#9dbde0</color>
+    <color name="redBg">#e09d9d</color>
+    <color name="greenBg">#9de09d</color>
+
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="bronze">#cd7f32</color>
+    <color name="other">#f8f8ff</color>
+
+</resources>

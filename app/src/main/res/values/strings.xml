@@ -1,0 +1,287 @@
+<resources>
+    <string name="app_name">Tech Trivia</string>
+    <string name="login_button">Login</string>
+    <string name="Trivia_Title">Tech Trivia!</string>
+    <string name="name" />
+    <string name="name_hint">Enter your username</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="game_Title_Hint">Game Title</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="title_activity_homepage">HomepageActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="healthcare">Healthcare</string>
+    <string name="finances">Finances</string>
+    <string name="computer_science">Computer Science</string>
+
+    <string name="CSQ0">The responsible rules and behaviours designed to keep individuals safe whenever connected to the Internet is the definition of</string>
+    <string name="CSQ0A">Cyber Security</string>
+    <string name="CSQ0BCorr">Cyber Safety</string>
+    <string name="CSQ0C">Cyber Ethics</string>
+    <string name="CSQ0D">Cyber Space</string>
+
+    <string name="CSQ1">The responsible rules and behaviours designed to keep individuals safe whenever connected to the Internet is the definition of</string>
+    <string name="CSQ1A">Cyber Security</string>
+    <string name="CSQ1BCorr">Cyber Safety</string>
+    <string name="CSQ1C">Cyber Ethics</string>
+    <string name="CSQ1D">Cyber Space</string>
+
+    <string name="CSQ2">Which of the following is appropriate to post online?</string>
+    <string name="CSQ2A">a picture with you address in it</string>
+    <string name="CSQ2B">your location</string>
+    <string name="CSQ2CCorr">a picture of your food</string>
+    <string name="CSQ2D">your phone number</string>
+
+    <string name="CSQ3">You receive an email asking for banking information from a company name you do not recognize. What should you do?</string>
+    <string name="CSQ3ACorr">do not respond and report as spam</string>
+    <string name="CSQ3B">reply asking for more information</string>
+    <string name="CSQ3C">give them the information</string>
+    <string name="CSQ3D">report them to the police</string>
+
+    <string name="CSQ4">You are online shopping. You come across a shoe store that offers outrageous prices but the website looks old and not updated. What should you do> </string>
+    <string name="CSQ4A">send the website an email with your information</string>
+    <string name="CSQ4B">buy from the website</string>
+    <string name="CSQ4CCorr">do not buy shoes from the website</string>
+    <string name="CSQ4D">report the website to the police</string>
+
+    <string name="CSQ5">An unknown website offers a free download of your favorite game. The download asks to make changes to your computer. What should you do?</string>
+    <string name="CSQ5A">allow the download to make changes</string>
+    <string name="CSQ5BCorr">stop the download and deny the request</string>
+    <string name="CSQ5C">redownload and hope it does not ask again</string>
+    <string name="CSQ5D">download a different game from the website</string>
+
+    <string name="CSQ7">How can you avoid being a victim of identity theft?</string>
+    <string name="CSQ7A">do not share information with sketchy websites</string>
+    <string name="CSQ7B">do not open links from unknown sources</string>
+    <string name="CSQ7C">be extremely cautious of who you share personal information with</string>
+    <string name="CSQ7DCorr">all of the above</string>
+
+    <string name="CSQ8">You are on a website and the website continuously produces pop-ups asking for information about you before using the website. What should you do?</string>
+    <string name="CSQ8A">give the information</string>
+    <string name="CSQ8B">continuously try to exit the pop-ups</string>
+    <string name="CSQ8CCorr">leave the website and do not provide the information</string>
+    <string name="CSQ8D">give fake information</string>
+
+    <string name="CSQ9">What qualities make a good password?</string>
+    <string name="CSQ9A">hard to guess</string>
+    <string name="CSQ9B">includes little personal information</string>
+    <string name="CSQ9C">includes capital letters and punctuation as allowed</string>
+    <string name="CSQ9DCorr">all of the above</string>
+
+    <string name="CSQ10">You are in an online gaming chat room and someone asks about your personal information such as age and location. What should you do?</string>
+    <string name="CSQ10A">continue chatting but do not provide information</string>
+    <string name="CSQ10B">provide information</string>
+    <string name="CSQ10CCorr">do not provide information and stop chatting</string>
+    <string name="CSQ10D">give fake information and location</string>
+
+    <string name="CSQ11">It is ok to provide your phone number and email address to unknown websites.</string>
+    <string name="CSQ11T">True</string>
+    <string name="CSQ11FCorr">False</string>
+
+    <string name="CSQ12">Banks often send emails asking you to disclose sensitive information</string>
+    <string name="CSQ12T">True</string>
+    <string name="CSQ12FCorr">False</string>
+
+    <string name="CSQ13">It is ok to provide your phone number and email address to unknown websites.</string>
+    <string name="CSQ13T">True</string>
+    <string name="CSQ13FCorr">False</string>
+
+    <string name="CSQ14">All websites are safe to use.</string>
+    <string name="CSQ14T">True</string>
+    <string name="CSQ14FCorr">False</string>
+
+    <string name="CSQ15">Passwords should not be reused for different accounts.</string>
+    <string name="CSQ15TCorr">True</string>
+    <string name="CSQ15F">False</string>
+
+    <string name="HQ0">How much water should a person drink in a day?</string>
+    <string name="HQ0A">13 ounces</string>
+    <string name="HQ0B">8 liters</string>
+    <string name="HQ0CCorr">2 liters</string>
+    <string name="HQ0D">8 ounces</string>
+
+
+    <string name="HQ1">How much water should a person drink in a day?</string>
+    <string name="HQ1A">13 ounces</string>
+    <string name="HQ1B">8 liters</string>
+    <string name="HQ1CCorr">2 liters</string>
+    <string name="HQ1D">8 ounces</string>
+
+    <string name="HQ2">What are some things you can do to help support your brain health?</string>
+    <string name="HQ2A">doing mental exercises</string>
+    <string name="HQ2B">eating nutritious foods</string>
+    <string name="HQ2C">physical activity</string>
+    <string name="HQ2DCorr">all of the above</string>'
+
+    <string name="HQ3">How much physical activity should you on average get a day?</string>
+    <string name="HQ3A">4 hours</string>
+    <string name="HQ3BCorr">1 hour</string>
+    <string name="HQ3C">40 minutes</string>
+    <string name="HQ3D">30 minutes</string>
+
+    <string name="HQ4">How many hours of sleep should you on average get per night?</string>
+    <string name="HQ4A">6 hours</string>
+    <string name="HQ4BCorr">8 hours</string>
+    <string name="HQ4C">10 hours</string>
+    <string name="HQ4D">12 hours</string>
+
+    <string name="HQ5">What is a sign you are not drinking enough water?</string>
+    <string name="HQ5A">dark yellow urine</string>
+    <string name="HQ5BCorr">all answers are correct</string>
+    <string name="HQ5C">you have a headache</string>
+    <string name="HQ5D">you have a dry mouth</string>
+
+    <string name="HQ6">Which is a healthy way to deal with stress?</string>
+    <string name="HQ6A">yelling at others</string>
+    <string name="HQ6B">drinking alcohol</string>
+    <string name="HQ6CCorr">physical exercise</string>
+    <string name="HQ6D">self harm</string>
+
+    <string name="HQ7">How much fruit should you eat a day?</string>
+    <string name="HQ7A">half serving</string>
+    <string name="HQ7B">1 serving</string>
+    <string name="HQ7CCorr">2 servings</string>
+    <string name="HQ7D">4 servings</string>
+
+    <string name="HQ8">How many vegetables should you eat a day?</string>
+    <string name="HQ8A">1 cup</string>
+    <string name="HQ8BCorr">2 to 2 and a half cups</string>
+    <string name="HQ8C">8 cups</string>
+    <string name="HQ8D">3 to 4 cups</string>
+
+    <string name="HQ9">Which is NOT a good way to deal with anxiety?</string>
+    <string name="HQ9ACorr">isolating yourself</string>
+    <string name="HQ9B">mediation</string>
+    <string name="HQ9C">talking it out with a friend</string>
+    <string name="HQ9D">positive self talk</string>
+
+    <string name="HQ10">Which of the following are good mental health resources</string>
+    <string name="HQ10A">suicide prevention hotline</string>
+    <string name="HQ10B">online therapy</string>
+    <string name="HQ10C">meditation applications</string>
+    <string name="HQ10DCorr">All of the above</string>
+
+
+    <string name="HQ11">Tap water is safe to drink.</string>
+    <string name="HQ11TCorr">True</string>
+    <string name="HQ11F">False</string>
+
+    <string name="HQ12">Physical and Mental health are completely unrelated and have no effect on each other.</string>
+    <string name="HQ12T">True</string>
+    <string name="HQ12FCorr">False</string>
+
+    <string name="HQ13">Excessive caffeine can cause heart problems.</string>
+    <string name="HQ13TCorr">True</string>
+    <string name="HQ13F">False</string>
+
+    <string name="HQ14">It is important and healthy to reach out for help if you are struggling</string>
+    <string name="HQ14TCorr">True</string>
+    <string name="HQ14F">False</string>
+
+    <string name="HQ15">Unhealthy foods are ok to consume in moderation.</string>
+    <string name="HQ15TCorr">True</string>
+    <string name="HQ15F">False</string>
+
+    <string name="FQ0">Which of the following is a long term investment?</string>
+    <string name="FQ0ACorr">mutual funds</string>
+    <string name="FQ0B">government bonds</string>
+    <string name="FQ0C">certificates of deposit</string>
+    <string name="FQ0D">treasury bills</string>
+
+    <string name="FQ1">Which of the following is a long term investment?</string>
+    <string name="FQ1ACorr">mutual funds</string>
+    <string name="FQ1B">government bonds</string>
+    <string name="FQ1C">certificates of deposit</string>
+    <string name="FQ1D">treasury bills</string>
+
+    <string name="FQ2">What is an interest rate?</string>
+    <string name="FQ2A">the profit gained from selling investments</string>
+    <string name="FQ2BCorr">the proportion of a loan that is charged as interest to the borrower</string>
+    <string name="FQ2C">the deficit between spending and saving</string>
+    <string name="FQ2D">the rate of stock portfolio growth</string>
+
+    <string name="FQ3">What is a mutual fund?</string>
+    <string name="FQ3A">money put aside by the government for citizens past a certain age</string>
+    <string name="FQ3B">the proportion of a loan that is charged as interest to the borrower</string>
+    <string name="FQ3C">a short term investment with quick returns</string>
+    <string name="FQ3DCorr">an investment program funded by shareholders that trades in diversified holdings and is professionally managed</string>
+
+    <string name="FQ4">Which of the following is a good financial practice</string>
+    <string name="FQ4A">investing in random stocks</string>
+    <string name="FQ4BCorr">budgeting income and managing expenses</string>
+    <string name="FQ4C">only investing in short term investments with high risk</string>
+    <string name="FQ4D">using borrowed money to buy luxuries</string>
+
+    <string name="FQ5">How much is a person taxed on their income?</string>
+    <string name="FQ5A">33 percent</string>
+    <string name="FQ5BCorr">depends on the amount of income a person earns</string>
+    <string name="FQ5C">depends on the age and location of the person</string>
+    <string name="FQ5D">25 percent</string>
+
+    <string name="FQ6">How often does a person have to file taxes?</string>
+    <string name="FQ6A">every month</string>
+    <string name="FQ6BCorr">every 6 months</string>
+    <string name="FQ6C">every year</string>
+    <string name="FQ6D">every two years</string>
+
+    <string name="FQ7">Which of the following is not a type of tax?</string>
+    <string name="FQ7A">income tax</string>
+    <string name="FQ7B">health tax</string>
+    <string name="FQ7CCorr">property tax</string>
+    <string name="FQ7D">capital gains tax</string>
+
+    <string name="FQ8">Every month a person transfers $200 from their checking account to their savings account. This is an example of a _____.</string>
+    <string name="FQ8A">long term investment</string>
+    <string name="FQ8B">money shortage</string>
+    <string name="FQ8C">short term investment</string>
+    <string name="FQ8DCorr">savings plan</string>
+
+    <string name="FQ9">What is a stock?</string>
+    <string name="FQ9A">an investment program funded by shareholders that trades in diversified holdings and is professionally managed</string>
+    <string name="FQ9BCorr">the capital raised by a business or corporation through the issue and subscription of shares</string>
+    <string name="FQ9C">a form of fiat money</string>
+    <string name="FQ9D">a version of money that can be transferred from bank to bank</string>
+
+    <string name="FQ10">What is cryptocurrency?</string>
+    <string name="FQ10ACorr">digital currency that can be used to buy goods and services</string>
+    <string name="FQ10B">a version of money that can be transferred from bank to bank</string>
+    <string name="FQ10C">a physical form of money that is the most commonly used form of currency</string>
+    <string name="FQ10D">a low risk, non-volatile form of investment</string>
+
+    <string name="FQ11">Spending as much as you earn every month is a good financial practice</string>
+    <string name="FQ11T">True</string>
+    <string name="FQ11FCorr">False</string>
+
+    <string name="FQ12">It is important to understand what you are investing in before you invest.</string>
+    <string name="FQ12TCorr">True</string>
+    <string name="FQ12F">False</string>
+
+    <string name="FQ13">When saving money, it is important to consider the interest rate of where you are saving money.</string>
+    <string name="FQ13TCorr">True</string>
+    <string name="FQ13F">False</string>
+
+    <string name="FQ14">When investing money, it is important to only invest in short term or long term investments, but not both.</string>
+    <string name="FQ14T">True</string>
+    <string name="FQ14FCorr">False</string>
+
+    <string name="FQ15">Budgeting is a good financial practice.</string>
+    <string name="FQ15TCorr">True</string>
+    <string name="FQ15F">False</string>
+    <string name="title_activity_selected_wrong">SelectedWrongActivity</string>
+    <string name="view_scores">View My Scores</string>
+    <string name="title_activity_view_my_scores">ViewMyScoresActivity</string>
+    <string name="my_scores">My Scores</string>
+    <string name="returnHome">Return</string>
+    <string name="cs">CS</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="view_leaderboard">View leaderboard</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+
+</resources>
